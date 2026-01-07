@@ -2,7 +2,7 @@
 
 ## Informations générales
 
-Les informations connues sur l'orbite de la Lune :
+Les informations connues sur l'orbite de la Lune autour de la Terre :
 
 - https://fr.wikipedia.org/wiki/Orbite_de_la_Lune
 
