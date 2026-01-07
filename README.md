@@ -1,5 +1,17 @@
 # Le système Terre Lune
 
+## Informations générales
+
+Les informations connues sur l'orbite de la Lune :
+https://fr.wikipedia.org/wiki/Orbite_de_la_Lune
+https://media4.obspm.fr/public/AMC/pages_eclipses-lune/stlp-mouvement-reel-ligne-noeuds-lune.html
+
+Définition du repère géocentrique écliptique :
+https://media4.obspm.fr/public/AMC/pages_defrepere/repere-ecliptique.html
+
+Définition de l'orbite osculatrice :
+https://fr.wikipedia.org/wiki/Orbite_osculatrice
+
 ## Description
 
 ![](terre-lune.png)
