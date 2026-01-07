@@ -28,7 +28,7 @@ seules les intéractions Terre-Soleil, Lune-Soleil et Terre-Lune sont prises en 
 Le programme [terrelune.m](terrelune.m) lance la résolution numérique de l'équation différentielle, avec une condition initiale (positions et vitesses)
 prise le **20 mars 2017 à 0h00**, un pas de calcul constant de **15mn** et sur une durée de **18,6 ans**.
 
-Ce programme est lancé avec la ligne de commande ci-dessous.
+Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
 
 ```
 >> terrelune
