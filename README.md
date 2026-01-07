@@ -49,7 +49,13 @@ Ces informations sur l'orbite de la Lune sont sauvegardées dans le fichier **re
 
 ## Résultats
 
-La génération des données précédemment réalisée permet les tracés ci-dessous, avec le programme [traceresultats.m](traceresultats.m)
+La génération des données précédemment réalisée permet les tracés ci-dessous, avec le programme [traceresultats.m](traceresultats.m).
+
+Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
+
+```
+>> traceresultats
+```
 
 ![](distanceterrelune.png)
 
