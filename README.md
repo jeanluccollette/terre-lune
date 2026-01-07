@@ -25,6 +25,8 @@ seules les intéractions Terre-Soleil, Lune-Soleil et Terre-Lune sont prises en 
 
 ## Génération des données
 
+Le programme [terrelune.m](terrelune.m) lance la résolution numérique de l'équation différentielle. 
+
 ```
 >> terrelune
 ```
