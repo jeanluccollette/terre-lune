@@ -76,8 +76,15 @@ Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
 https://github.com/user-attachments/assets/3aa13a1f-e6a9-46d8-9e54-80170c026bbc
 
 - En rouge : trajectoire de la Lune autour de la Terre (coordonnées ICRS).
-- En bleu : ligne des nœuds. En noir : ligne des apsides (périgée-apogée).
+- En bleu : ligne des nœuds.
+- En noir : ligne des apsides (périgée-apogée).
 - En vert : direction relative du Soleil.
+
+## Conclusion
+
+Malgré la simplicité du modèle, on retrouve les informations relatives à la description de l'orbite de la Lune autour de la Terre,
+notamment la période de rotation de la ligne des nœuds de **18,6 ans** dans le sens rétrograde, et celle de la ligne des apsides
+de **8,8 ans** dans le sens direct.
 
 
 
