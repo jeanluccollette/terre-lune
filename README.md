@@ -65,6 +65,14 @@ Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
 
 ![](orbite.png)
 
+Par ailleurs, le programme [visuterrelune.m](visuterrelune.m) génère la vidéo ci-dessous.
+
+Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
+
+```
+>> visuterrelune
+```
+
 https://github.com/user-attachments/assets/3aa13a1f-e6a9-46d8-9e54-80170c026bbc
 
 
