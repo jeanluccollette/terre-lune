@@ -32,6 +32,7 @@ Définition de l'orbite osculatrice :
 
 ![](orbite.png)
 
+https://github.com/user-attachments/assets/3aa13a1f-e6a9-46d8-9e54-80170c026bbc
 
-https://github.com/user-attachments/assets/c0da1070-23d0-489b-90af-4b3a96b9cc23
+
 
