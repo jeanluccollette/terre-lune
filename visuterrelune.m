@@ -16,7 +16,7 @@ plot3(rL(:,1)-rT(:,1),rL(:,2)-rT(:,2),rL(:,3)-rT(:,3),'r',0,0,0,'ok');
 xlabel('x (en km)')
 ylabel('y (en km)')
 zlabel('z (en km)')
-view(-40,40)
+view(az,el)
 grid on
 
 figure
@@ -83,7 +83,7 @@ while fini==0
     drawnow
     F=getframe(gcf);
     RGB=frame2im(F);
-    RGB=insertText(RGB,[1 1],sprintf('%.3f jours',t(nfin)/(3600*24)));
+    RGB=insertText(RGB,[1 1],sprintf('%.3f jours',(temps+pertemps)/(3600*24)));
     writeVideo(vid,RGB);
     if (temps+pertemps)>=t(end)
         fini=1;
