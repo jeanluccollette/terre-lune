@@ -22,6 +22,10 @@ Définition de l'orbite osculatrice :
 
 ## Génération des données
 
+```
+>> terrelune
+```
+
 ## Résultats
 
 ![](distanceterrelune.png)
