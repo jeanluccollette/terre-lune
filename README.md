@@ -34,6 +34,8 @@ Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
 >> terrelune
 ```
 
+Les positions et les vitesses au cours du temps sont sauvegardées dans le fichier **solution.mat**.
+
 ## Résultats
 
 ![](distanceterrelune.png)
