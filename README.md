@@ -18,6 +18,9 @@ Définition de l'orbite osculatrice :
 
 ## Description
 
+On suppose que le référentiel ayant le Soleil pour origine est **inertiel**. On néglige les intéractions avec les autres planètes du système solaire et
+seules les intéractions Terre-Soleil, Lune-Soleil et Terre-Lune sont prises en compte.
+
 ![](terre-lune.png)
 
 ## Génération des données
