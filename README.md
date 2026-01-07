@@ -36,6 +36,19 @@ Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
 
 Les positions et les vitesses au cours du temps sont sauvegardées dans le fichier **solution.mat**.
 
+Le programme [genereresultats.m](genereresultats.m) exploite ensuite ce fichier **solution.mat** pour calculer les paramètres de l'orbite de la Lune
+dans le référentiel géocentrique (ligne des noeuds, ligne des apsides et excentricité).
+
+Ces informations sont sauvegardées dans le fichier **resultat.mat**.
+
+Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
+
+```
+>> genereresultats
+```
+
+Ces informations sur l'orbite de la Lune sont sauvegardées dans le fichier **resultat.mat**.
+
 ## Résultats
 
 ![](distanceterrelune.png)
