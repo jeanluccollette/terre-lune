@@ -24,7 +24,7 @@ Le site JPL Horizons :
 
 - https://ssd.jpl.nasa.gov/horizons/app.html#/
 
-## Description
+## Description du modèle
 
 On suppose que le référentiel ayant le Soleil pour origine est **inertiel**. On néglige les intéractions avec les autres planètes du système solaire et
 seules les intéractions Terre-Soleil, Lune-Soleil et Terre-Lune sont prises en compte.
