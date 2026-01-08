@@ -81,6 +81,8 @@ Les lignes horizontales sur les graphiques correspondent aux valeurs données su
 
 ![](inclinaison.png)
 
+La trajectoire sur la durée de simulation est représentée ci-dessous.
+
 ![](orbite.png)
 
 Par ailleurs, le programme [visuterrelune.m](visuterrelune.m) génère la vidéo ci-dessous.
