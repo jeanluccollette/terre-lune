@@ -73,7 +73,7 @@ Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
 >> visuterrelune
 ```
 
-https://github.com/user-attachments/assets/3aa13a1f-e6a9-46d8-9e54-80170c026bbc
+https://github.com/user-attachments/assets/9eb36720-a9f6-4138-ac15-c80f8c7fe5d3
 
 - En rouge : trajectoire de la Lune autour de la Terre (coordonnées ICRS).
 - En bleu : ligne des nœuds.
