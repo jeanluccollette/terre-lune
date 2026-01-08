@@ -11,13 +11,6 @@ load solution t x muT muL
 mu_eq=muT+muL;
 rT=x(:,1:3);vT=x(:,4:6);
 rL=x(:,7:9);vL=x(:,10:12);
-figure
-plot3(rL(:,1)-rT(:,1),rL(:,2)-rT(:,2),rL(:,3)-rT(:,3),'r',0,0,0,'ok');
-xlabel('x (en km)')
-ylabel('y (en km)')
-zlabel('z (en km)')
-view(az,el)
-grid on
 
 figure
 pastemps=3600*24*4;
@@ -44,7 +37,6 @@ while fini==0
     vz=vL(ndeb:nfin,3)-vT(ndeb:nfin,3);
     momentcine=cross([x(end);y(end);z(end)],[vx(end);vy(end);vz(end)]);
     lignenoeud=cross([0 0 1],momentcine);
-    temps=temps+pastemps;
     echlune=450000;
     echsol=echlune/norm([rT(nfin,1);rT(nfin,2);rT(nfin,3)]);
     ur=[x(end);y(end);z(end)];
@@ -83,8 +75,9 @@ while fini==0
     drawnow
     F=getframe(gcf);
     RGB=frame2im(F);
-    RGB=insertText(RGB,[1 1],sprintf('%.3f jours',(temps+pertemps)/(3600*24)));
+    RGB=insertText(RGB,[1 1],sprintf('%.1f jours',(temps+pertemps)/(3600*24)));
     writeVideo(vid,RGB);
+    temps=temps+pastemps;
     if (temps+pertemps)>=t(end)
         fini=1;
     end
