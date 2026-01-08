@@ -103,7 +103,7 @@ https://github.com/user-attachments/assets/9eb36720-a9f6-4138-ac15-c80f8c7fe5d3
 ## Conclusion
 
 Malgré la simplicité du modèle, on retrouve les informations relatives à la description de l'orbite de la Lune autour de la Terre,
-notamment la période de rotation de la ligne des nœuds de **18,6 ans** dans le sens rétrograde, et celle de la ligne des apsides
+notamment la période de précession de la ligne des nœuds de **18,6 ans** dans le sens rétrograde, et celle de la ligne des apsides
 de **8,8 ans** dans le sens direct.
 
 
