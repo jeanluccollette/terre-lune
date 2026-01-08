@@ -65,6 +65,14 @@ Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
 >> traceresultats
 ```
 
+- Demi-grand axe : 384748 km
+- Distance au périgée : ~362600 km (356400 à 370400 km)
+- Distance à l'apogée : ~405400 km (404000 à 406700 km)
+- Excentricité moyenne : 0,054 900 6 (0,026 à 0,077)
+- Inclinaison moyenne de l'orbite sur l'écliptique : 5,14° (5,0 à 5,28°)
+- Période de précession des nœuds : 18,5996 ans
+- Période de précession de la ligne des apsides : 8,850 4 ans
+
 ![](distanceterrelune.png)
 
 ![](excentricite.png)
