@@ -1,5 +1,9 @@
 # Le système Terre Lune
 
+## Objectif
+
+Un modèle simplifié du système Terre Lune est proposé afin d'accéder à une estimation des trajectoires par une résolution numérique de l'équation d'évolution. 
+
 ## Informations générales
 
 Les informations connues sur l'orbite de la Lune autour de la Terre :
