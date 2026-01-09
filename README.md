@@ -82,7 +82,7 @@ Les lignes horizontales sur les graphiques correspondent aux valeurs données su
 
 ![](inclinaison.png)
 
-La trajectoire sur la durée de simulation est représentée ci-dessous.
+La trajectoire sur la durée de simulation est représentée ci-dessous. L'échelle sur l'axe des z est dilatée.
 
 ![](orbite.png)
 
