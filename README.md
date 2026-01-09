@@ -33,7 +33,7 @@ seules les intéractions Terre-Soleil, Lune-Soleil et Terre-Lune sont prises en 
 
 ## Génération des données
 
-Le programme [terrelune.m](terrelune.m) lance la résolution numérique de l'équation différentielle (méthode rk4), avec une condition initiale (positions et vitesses)
+Le programme [terrelune.m](terrelune.m) lance la résolution numérique de l'équation différentielle (méthode **rk4**), avec une condition initiale (positions et vitesses)
 prise le **20 mars 2017 à 0h00**, un pas de calcul constant de **15mn** et sur une durée de **18,6 ans**.
 
 Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
