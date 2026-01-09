@@ -45,7 +45,8 @@ Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
 Les positions et les vitesses au cours du temps sont sauvegardées dans le fichier **solution.mat**.
 
 Le programme [genereresultats.m](genereresultats.m) exploite ensuite ce fichier **solution.mat** pour calculer les paramètres de l'orbite de la Lune
-dans le référentiel géocentrique ([ligne des noeuds](https://fr.wikipedia.org/wiki/N%C5%93ud_(astronomie)), ligne des apsides et excentricité).
+dans le référentiel géocentrique ([ligne des noeuds](https://fr.wikipedia.org/wiki/N%C5%93ud_(astronomie)),
+[ligne des apsides](https://fr.wikipedia.org/wiki/Apside) et excentricité).
 
 Ce programme est lancé dans **Matlab** avec la ligne de commande ci-dessous.
 
